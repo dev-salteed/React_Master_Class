@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React_Master_Class/static/js/main.d77c914c.chunk.js",
+    "main.js.map": "/React_Master_Class/static/js/main.d77c914c.chunk.js.map",
+    "runtime-main.js": "/React_Master_Class/static/js/runtime-main.71640466.js",
+    "runtime-main.js.map": "/React_Master_Class/static/js/runtime-main.71640466.js.map",
+    "static/js/2.0af1e424.chunk.js": "/React_Master_Class/static/js/2.0af1e424.chunk.js",
+    "static/js/2.0af1e424.chunk.js.map": "/React_Master_Class/static/js/2.0af1e424.chunk.js.map",
+    "index.html": "/React_Master_Class/index.html",
+    "static/js/2.0af1e424.chunk.js.LICENSE.txt": "/React_Master_Class/static/js/2.0af1e424.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71640466.js",
+    "static/js/2.0af1e424.chunk.js",
+    "static/js/main.d77c914c.chunk.js"
+  ]
+}
